@@ -1,0 +1,42 @@
+#title{
+  font-family: 'Abril Fatface', cursive;
+  padding-bottom: 5rem;
+  font-size: 5rem;
+  text-align: center;
+}
+*{
+  font-family: 'Abril Fatface', cursive;
+  color: #ffeadb;
+}
+body{
+  background-color: #679b9b;
+}
+#player1{
+  text-align: center;
+  font-size: 2rem;
+}
+#player2{
+  text-align: center;
+  font-size: 2rem;
+}
+.btn-outline-primary{
+  font-size: 2rem;
+  background-color:#679b9b;
+  color: #ffeadb;
+  border-color: #679b9b;
+}
+.btn-outline-primary:hover{
+  background-color: #ffeadb;
+  color: #679b9b;
+  border-color: #ffeadb;
+}
+.btn-outline-primary:active,
+.btn-outline-primary:focus{
+  background-color: #679b9b !important;
+  color: #ffeadb !important;
+  border-color: #679b9b !important;
+  box-shadow: 0 0 0 0.2rem rgba(103, 155, 155, 0.5) !important;
+}
+.roll-me{
+  text-align: center;
+}
